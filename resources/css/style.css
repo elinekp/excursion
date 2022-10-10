@@ -1,3 +1,57 @@
-h2 {
-    color: blue;
+html {
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    
+}
+
+header h2 {
+    font-family: "Verdana", sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+a {
+    font-family: "Verdana", sans-serif;
+    font-weight: normal;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    margin-top: 20px;
+}
+
+#description-section h2 {
+    font-family: "Verdana", sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#description-section span {
+    font-family: "Verdana", sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+#description-section img {
+    margin: 20px 0;
+}
+
+#coming-soon-section h2 {
+    font-family: "Verdana", sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.copyright {
+    font-family: "Verdana", sans-serif;
+    text-align: right;
+    color: gray;    
+    margin: 30px 0;
 }
